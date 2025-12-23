@@ -1,0 +1,8 @@
+{
+  "name": "DevNexus Architect",
+  "description": "A professional AI-powered dashboard for Next.js developers to architect applications, monitor performance metrics, and stay updated with the latest frontend trends.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
